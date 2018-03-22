@@ -1,0 +1,14 @@
+{
+  "name": "proton-template-app",
+  "version": "1.0.0",
+  "description": "A simple template app for Proton",
+  "main": "app.js",
+  "author": "Connor Sears",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-reload": "^1.2.2",
+    "jQuery": "^1.7.4"
+  }
+}
